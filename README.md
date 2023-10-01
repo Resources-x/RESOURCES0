@@ -1,2 +1,2 @@
 # RESOURCES
-[##CLICK-ME](https://codingheroes.io/)
+[CLICK-ME](https://codingheroes.io/resources/)
